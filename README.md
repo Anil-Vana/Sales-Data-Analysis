@@ -21,6 +21,8 @@ Analyzed historical sales data using Python and SQL to identify sales trends, pr
 - Customers: 803
 - Date Range: January 3, 2023 – November 1, 2026
 
+- [Download sales.csv](https://github.com/Anil-Vana/Sales-Data-Analysis/blob/main/data/raw/sales.csv)
+
 ## Technologies
 
 - Python
@@ -127,6 +129,13 @@ The overall business metrics were compared between Pandas and MySQL to validate 
 ![Discount vs Profit](visualizations/discount_vs_profit.png)
 
 ## Setup
+
+## Clone Repository
+
+```bash
+git clone https://github.com/Anil-Vana/Sales-Data-Analysis.git
+cd Sales-Data-Analysis
+```
 
 ### Install Dependencies
 
