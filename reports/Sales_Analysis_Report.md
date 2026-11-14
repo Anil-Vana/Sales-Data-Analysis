@@ -163,11 +163,11 @@ All generated visualization files are stored in the `visualizations` directory f
 
 #### 3.11.1 Overall Sales and Profit
 
-![Overall Sales and Profit](../visualizations\overall_sales_profit.png)
+![Overall Sales and Profit](../visualizations/overall_sales_profit.png)
 
 #### 3.11.2 Yearly Sales Trend
 
-![Yearly Sales Trend](../visualizations\yearly_sales_trend.png)
+![Yearly Sales Trend](../visualizations/yearly_sales_trend.png)
 
 #### 3.11.3 Monthly Sales Trend
 
@@ -195,23 +195,23 @@ All generated visualization files are stored in the `visualizations` directory f
 
 #### 3.11.9 Customer Segment Profit
 
-![Customer Segment Profit](../visualizations\customer_segment_profit.png)
+![Customer Segment Profit](../visualizations/customer_segment_profit.png)
 
 #### 3.11.10 Region-wise Sales
 
-![Region-wise Sales](../visualizations\region_wise_sales.png)
+![Region-wise Sales](../visualizations/region_wise_sales.png)
 
 #### 3.11.11 Region-wise Profit
 
-![Region-wise Profit](../visualizations\region_wise_profit.png)
+![Region-wise Profit](../visualizations/region_wise_profit.png)
 
 #### 3.11.12 Discount vs Profit
 
-![Discount vs Profit](../visualizations\discount_vs_profit.png)
+![Discount vs Profit](../visualizations/discount_vs_profit.png)
 
 #### 3.11.13 Shipping Performance
 
-![Shipping Performance](../visualizations\shipping_performance.png)
+![Shipping Performance](../visualizations/shipping_performance.png)
 
 #### 3.11.14 Shipping Performance Profit
 
