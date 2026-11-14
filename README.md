@@ -103,22 +103,29 @@ The overall business metrics were compared between Pandas and MySQL to validate 
 ## Visualizations
 
 ### 1. Monthly Sales Trend
-![Monthly Sales Trend](visualizations\monthly_sales_trend.png)
+
+![Monthly Sales Trend](visualizations/monthly_sales_trend.png)
 
 ### 2. Category-wise Sales
-![Category-wise Sales](visualizations\category_wise_sales.png)
+
+![Category-wise Sales](visualizations/category_wise_sales.png)
 
 ### 3. Category-wise Profit
-![Category-wise Profit](visualizations\category_wise_profit.png)
+
+![Category-wise Profit](visualizations/category_wise_profit.png)
 
 ### 4. Subcategory-wise Profit
-![Subcategory-wise Profit](visualizations\subcategory_wise_profit.png)
+
+![Subcategory-wise Profit](visualizations/subcategory_wise_profit.png)
 
 ### 5. Region-wise Sales
-![Region-wise Sales](visualizations\region_wise_sales.png)
+
+![Region-wise Sales](visualizations/region_wise_sales.png)
 
 ### 6. Discount vs Profit
-![Discount vs Profit](visualizations\discount_vs_profit.png)
+
+![Discount vs Profit](visualizations/discount_vs_profit.png)
+
 ## Setup
 
 ### Install Dependencies
