@@ -23,6 +23,14 @@ Analyzed historical sales data using Python and SQL to identify sales trends, pr
 
 - [Download sales.csv](https://github.com/Anil-Vana/Sales-Data-Analysis/blob/main/data/raw/sales.csv)
 
+
+## Data Processing
+
+The cleaned and historical datasets are generated during data preprocessing and analysis.
+
+These files are not included in the repository because of their size. Run the notebook to regenerate them from the original dataset.
+
+
 ## Technologies
 
 - Python
